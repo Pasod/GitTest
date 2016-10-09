@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         // test1 From iMac.
         // From my Macbook
+        // Test from Macbook at the same time as there are changes from my iMac
     }
 
     override func didReceiveMemoryWarning() {
