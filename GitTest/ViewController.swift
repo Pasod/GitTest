@@ -26,4 +26,4 @@ class ViewController: UIViewController {
 
 }
 
-// TESTING Jira if I add issue tracking to commit message.
+// TESTING Jira if I add issue tracking to commit message
